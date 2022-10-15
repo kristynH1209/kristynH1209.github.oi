@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Playball&display=swap');
+
+body{
+background-color: #C68A8A;
+color: #623C3C;
+font-family: 'Alice', serif;
+font-size: 20px;
+}
+
+h1{
+background-color: #D8ADAD;
+color: #623C3C;
+text-align: center;
+font-size: 60px;
+font-family: 'Playball', cursive;
+padding: 20px;
+}
+
+h2{
+color: #CBA2A2;
+font-family: 'Playball', cursive;
+margin: 80px auto auto 30px;
+
+}
+
+h3{
+color: #623C3C;
+font-family: 'Playball', cursive;
+margin-left: 30px;
+}
+
+nav{
+  color: #4D3030;
+  font-family: 'Playball', cursive;
+}
+
+.poema{
+  background-color: #624141;
+  color: #DBB1B1;
+  text-align: center;
+  margin: 30px 80px 30px 40px;
+ padding: 20px;
+}
+
+
+img{
+border: 3px solid #482121;
+margin-left: 300px;
+}
+
+.uno{
+background-color: #291C1C;
+margin: 50px ;
+padding: 10px;
+}
+
+.dos{
+text-align: center;
+font-size: 40px;
+}
+
+.ficha{
+background-color: #1C1212;
+padding: 10px;
+color:#8B7777;
+}
